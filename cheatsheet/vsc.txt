@@ -1,0 +1,13 @@
+For PyCharm and Mac users - a list of the shortcuts Jeremy provided for Visual Studio Code:
+Action (PyCharm + Mac shortcut)
+Command palette- (Shift + Command + A)
+Select interpreter (for fastai env) - (Shift+Command+A) and then look for “interpreter”
+Select terminal shell- (Shift+Command+A) and then look for “terminal shell”
+Go to symbol (Option + Command + O)
+Find references (Command+ G)(go down in the references) (Command + Shift + G) (go up)(Command + Function + F7) (look for all)
+Go to definition (Command + Down Arrow Key)
+Go back (Command + [ )
+View documentation (Option + Space) for viewing source and (Function + F1) for viewing documentation
+Zen mode (Control + Command + F) and same to get out too
+Hide sidebar (Command + 1) redoing it will bring it back
+Find them all with the (Shift + Command+ A) palette option for reference.

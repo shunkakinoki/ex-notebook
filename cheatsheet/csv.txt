@@ -1,0 +1,3 @@
+df = pd.DataFrame({'fn': [trn_fns[o] for o in trn_ids],
+    'cat': [cats[trn_lrg_anno[o][1]] for o in trn_ids]}, columns=['fn','cat'])
+df.to_csv(CSV, index=False)
